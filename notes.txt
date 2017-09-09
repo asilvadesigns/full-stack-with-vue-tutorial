@@ -1,4 +1,12 @@
+INIT
 1. install vue cli tools `npm i -g vue-cli`.
 2. can view(ha get it..) stuff with `vue list`, boilerplate things.
 3. install the things...  `cd client && npm i`
 4. make sure node is above v8...
+5. push up changes...
+
+
+SERVER
+1. make new server dir, cd into, and `npm init -y`.. seperate things?
+2. don't forget to init eslint `node ./node_modules/eslint/bin/eslint.js --init`
+3. pause at min 24 - https://www.youtube.com/watch?v=Fa4cRMaTDUI
