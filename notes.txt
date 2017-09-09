@@ -1,0 +1,4 @@
+1. install vue cli tools `npm i -g vue-cli`.
+2. can view(ha get it..) stuff with `vue list`, boilerplate things.
+3. install the things...  `cd client && npm i`
+4. make sure node is above v8...
